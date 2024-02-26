@@ -1,0 +1,53 @@
+[
+  {
+    "name": "正式版",
+    "list": [
+      {
+        "name": "梦家市场",
+        "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yimeng168/qrh/main/yysc/%E6%A2%A6%E5%AE%B6%E5%B8%82%E5%9C%BA_1.0.0.apk",
+        "icon": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yimeng168/qrh/main/yysc/mjsc.png",
+        "version": "[32位]"
+      },
+      {
+        "name": "乐家桌面_龙王版",
+        "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yimeng168/qrh/main/yysc/%E4%B9%90%E5%AE%B6%E6%A1%8C%E9%9D%A2_1.0.48.apk",
+        "icon": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yimeng168/qrh/main/yysc/ljzm.png",
+        "version": "[32位]"
+      }
+    ]
+  },
+  {
+    "name": "主用路线",
+    "list": [
+      {
+        "name": "梦家市场",
+        "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yimeng168/qrh/main/yysc/%E6%A2%A6%E5%AE%B6%E5%B8%82%E5%9C%BA_1.0.0.apk",
+        "icon": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yimeng168/qrh/main/yysc/mjsc.png",
+        "version": "[32位]"
+      },
+      {
+        "name": "乐家桌面_龙王版",
+        "url": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yimeng168/qrh/main/yysc/%E4%B9%90%E5%AE%B6%E6%A1%8C%E9%9D%A2_1.0.48.apk",
+        "icon": "https://github.moeyy.xyz/https://raw.githubusercontent.com/yimeng168/qrh/main/yysc/ljzm.png",
+        "version": "[32位]"
+      }
+    ]
+  },
+  {
+    "name": "备用路线",
+    "list": [
+        {
+        "name": "乐家桌面_龙王版",
+        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yimeng168/qrh/main/yysc/%E4%B9%90%E5%AE%B6%E6%A1%8C%E9%9D%A2_1.0.48.apk",
+        "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/yimeng168/qrh/main/yysc/ljzm.png",
+        "version": "[32位]"
+      },
+     {
+        "name": "梦家市场",
+        "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yimeng168/qrh/main/yysc/%E6%A2%A6%E5%AE%B6%E5%B8%82%E5%9C%BA_1.0.0.apk",
+        "icon": "https://gh-proxy.com/https://raw.githubusercontent.com/yimeng168/qrh/main/yysc/mjsc.png",
+        "version": "[32位]"
+      }
+    ]
+  }
+]
